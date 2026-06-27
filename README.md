@@ -84,7 +84,7 @@ pip install tensorflow scikit-learn pandas numpy matplotlib joblib tabulate
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Fatemeh (Bahar) Baharlouei**  
 MSc in Building Science — Shahid Beheshti University  
