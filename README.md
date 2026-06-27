@@ -4,7 +4,7 @@ A collection of Python scripts including ANN surrogate model development for bui
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 📁 Training ANN Models/
@@ -18,17 +18,17 @@ A collection of Python scripts including ANN surrogate model development for bui
 
 ---
 
-## 🧠 ANN Surrogate Models
+## ANN Surrogate Models
 
 This folder contains Python scripts developed for training and evaluating Artificial Neural Network surrogate models as part of research on kinetic façade control and building performance simulation.
 
 ### Models
 
-#### 💡 Daylight Prediction ANN Model
+#### Daylight Prediction ANN Model
 - Predicts daylighting performance metrics for kinetic façade configurations
 - Replaces computationally expensive Radiance/ClimateStudio simulations with fast ANN predictions
 
-#### ⚡ Energy Prediction ANN Model
+#### Energy Prediction ANN Model
 - Predicts building energy consumption for kinetic façade configurations
 - Replaces computationally expensive EnergyPlus simulations with fast ANN predictions
 
@@ -48,13 +48,13 @@ This folder contains Python scripts developed for training and evaluating Artifi
 
 ---
 
-## 📋 Daily To-Do List Project
+## Daily To-Do List Project
 
 A beginner-to-intermediate Python project built during structured Python training. It covers practical programming concepts including data handling with pandas, user input, and script structuring.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Install dependencies using pip:
 
